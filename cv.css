@@ -1,0 +1,17 @@
+#cv-form{
+   /* display:none;*/
+}
+#cv-tempelate{
+    display:none;
+}
+.myimg{
+    border-radius:50%;
+    width:155px;
+    height:20vh
+}
+.background{
+    background-color:aqua;
+}
+.dis{
+    display:inline;
+}
