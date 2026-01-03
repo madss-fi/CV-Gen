@@ -31,7 +31,7 @@ function addNewAqField() {
 
 }
 
-// generating CV
+// generating
 function generateCV(){
     let nameField=document.getElementById("nameField").value;
     let nameT1=document.getElementById("nameT1");
